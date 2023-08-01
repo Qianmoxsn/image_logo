@@ -16,7 +16,7 @@ global:
   shadow:
     enable: false
   white_margin:
-    enable: true
+    enable: false
     width: 3
 layout:
   background_color: '#ffffff'
@@ -38,7 +38,7 @@ layout:
       color: '#212121'
       is_bold: true
       name: Param
-  logo_enable: false
+  logo_enable: true
   logo_position: left
   type: watermark_right_logo
 logo:
